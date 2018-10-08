@@ -35,4 +35,4 @@ P1OUT ^= BIT0;                                      // Toggle PIN 1.0 LED
 }
 P1IE |= BIT3;                                       // Enable button interrupt
 
-}// Code worked on with Brendan Reilley
+}// Code worked on with Brendan Reilly
